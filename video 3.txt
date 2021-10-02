@@ -12,3 +12,9 @@ git commit -m "comment"          -> now the file is ready to be uploaded
 git remote add origin address      -> assign the address writted here as origin
 git remote                          -> shows what are we calling the remote location where the content of this folder is synced
 git push -u origin master              -> orgin location pe push kar do
+
+git remote -v      -> shows list of all the remote addressses
+git remote set-url origin address      -> to modify the address associated with origin
+
+
+if error comes while pushing then delete the credential from control panel and then run the command again and then authenticate
