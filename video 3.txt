@@ -1,0 +1,10 @@
+git config --list      -> shows current username and email
+git config --global user.name "usernam"     -> set the global username
+git config --global user.email "email"      -> set the global email
+git config user.name   -> shows current username
+git config user.email   -> shows current email
+
+
+git add filename.extension      -> bring that file to staging area
+git add .     -> bring all the files to staging area
+git commit -m "comment"          -> now the file is ready to be uploaded 

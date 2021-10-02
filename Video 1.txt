@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=foXVkg7BISg&list=PLoxQvXKPyCeX9__PPTu2M2oeY2QJt-3JB
+
+Created an account and created a new repository(Learning Git);
+
+Deleted github credentials from control panel.
