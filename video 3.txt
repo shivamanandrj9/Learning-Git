@@ -7,4 +7,8 @@ git config user.email   -> shows current email
 
 git add filename.extension      -> bring that file to staging area
 git add .     -> bring all the files to staging area
-git commit -m "comment"          -> now the file is ready to be uploaded 
+git commit -m "comment"          -> now the file is ready to be uploaded
+
+git remote add origin address      -> assign the address writted here as origin
+git remote                          -> shows what are we calling the remote location where the content of this folder is synced
+git push -u origin master              -> orgin location pe push kar do
